@@ -1,0 +1,17 @@
+.header {
+    width:auto;
+    height: 5rem;
+    padding: 0 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: azure;
+    background-color: #354b7c;
+}
+
+.search {
+    align-items: center;
+    padding-left: 1rem;
+    width: 20rem;
+    height: 2rem;
+}
